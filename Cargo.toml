@@ -14,7 +14,7 @@ tracing-subscriber = { version = "= 0.3.22", features = ["env-filter"] }
 anyhow = "= 1.0.101"
 thiserror = "= 2.0.18"
 libc = "= 0.2.180"
-rand = "= 0.8.5"
+rand = "= 0.8.6"
 zip = { version = "= 8.1.0", default-features = false, features = ["deflate"] }
 resetprop = { path = "external/resetprop-rs/crates/resetprop" }
 
